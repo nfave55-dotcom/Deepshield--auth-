@@ -1,4 +1,6 @@
 streamlit
-face-recognition
 numpy
 Pillow
+face_recognition_models
+https://github.com/vishaal-sim/dlib-wheels/raw/main/dlib-19.24.1-cp311-cp311-linux_x86_64.whl
+face-recognition
